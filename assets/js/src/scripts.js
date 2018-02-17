@@ -9,8 +9,9 @@ $(function() {
 // Projects Menu
 $('.projects-menu-icon').click(function() {
   $('html').toggleClass('no-scroll');
-  $(this).toggleClass('active');
-  $('.overlay').toggleClass('show');
+  //$(this).toggleClass('active');
+  //$('.overlay').toggleClass('show');
+  window.location="https://github.com/persa188";
 });
   
 // All others
