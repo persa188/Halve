@@ -1,7 +1,7 @@
 # Site
-title: Halve
-description: Stylish, Two-Column Jekyll Theme
-url: https://taylantatli.github.io/Halve
+title: Daniel Persaud
+description: Software Engineer & CS Student @ UofT
+url: https://beta.danielpersaud.co
 logo: halve.png                                       # Site logo
 locale: en_US
 
@@ -31,10 +31,10 @@ sass:
 # Social Links
 #email:             email
 #google.plus:        username
-twitter:            username
+twitter:            nhld4n
 #facebook:           username
-github:             username
-stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
+github:             persa188
+stackoverflow:     7812752/daniel-persaud   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
 #xing:              username
 #instagram:          username
